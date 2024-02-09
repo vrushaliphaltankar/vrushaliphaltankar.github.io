@@ -55,5 +55,13 @@
   "devDependencies": {},
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Portfolio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrushaliphaltankar/vrushaliphaltankar.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vrushaliphaltankar/vrushaliphaltankar.github.io/issues"
+  },
+  "homepage": "https://github.com/vrushaliphaltankar/vrushaliphaltankar.github.io#readme"
 }
